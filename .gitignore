@@ -14,8 +14,6 @@ php_errorlog
 !webpack.production.js
 !webpack.development.js
 
-# track readme.md in the root (i.e. do NOT ignore it)
-!README.md
 
 # ignore OS generated files
 ehthumbs.db
@@ -59,5 +57,4 @@ public/
 !.gitpod.yml
 !.htaccess
 !.eslintrc
-!.env.example
 .now
